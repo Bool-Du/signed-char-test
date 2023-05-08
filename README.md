@@ -1,2 +1,2 @@
 # test-02
-the second playground for Bool
+the source code to test the signed char boudary problem in xlslib;
